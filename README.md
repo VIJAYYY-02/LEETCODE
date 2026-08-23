@@ -15,12 +15,14 @@
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
