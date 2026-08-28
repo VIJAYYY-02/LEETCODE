@@ -27,6 +27,7 @@
 | [0001-two-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0242-valid-anagram) |
@@ -39,6 +40,7 @@
 | [0066-plus-one](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -153,4 +156,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
