@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -157,4 +160,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
