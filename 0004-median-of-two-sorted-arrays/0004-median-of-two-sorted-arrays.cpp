@@ -14,17 +14,17 @@ public:
             arr[n1 + j] = nums2[j];
         }
 
-        // Bubble sort (manual sort, no STL sort)
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = 0; j < n - i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
-                    int temp = arr[j];
-                    arr[j] = arr[j + 1];
-                    arr[j + 1] = temp;
-                }
-            }
-        }
-
+        // // Bubble sort 
+        // for (int i = 0; i < n - 1; i++) {
+        //     for (int j = 0; j < n - i - 1; j++) {
+        //         if (arr[j] > arr[j + 1]) {
+        //             int temp = arr[j];
+        //             arr[j] = arr[j + 1];
+        //             arr[j + 1] = temp;
+        //         }
+        //     }
+        // }
+         sort(arr.begin(),arr.end());
         // Median calculation using (n % 2 == 1)
         if (n % 2 == 1) {
             // Odd length → middle element
