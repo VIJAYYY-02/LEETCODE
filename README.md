@@ -11,6 +11,7 @@
 | [0014-longest-common-prefix](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
