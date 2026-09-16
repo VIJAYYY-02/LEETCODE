@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0069-sqrtx) |
@@ -246,4 +247,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0112-path-sum) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
