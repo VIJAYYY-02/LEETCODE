@@ -188,6 +188,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
