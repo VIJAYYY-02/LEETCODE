@@ -239,6 +239,7 @@
 | [0112-path-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [0112-path-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0112-path-sum) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
