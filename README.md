@@ -30,6 +30,7 @@
 | [1122-relative-sort-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1122-relative-sort-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0509-fibonacci-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1518-water-bottles](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1518-water-bottles) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
