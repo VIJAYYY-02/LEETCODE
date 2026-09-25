@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -237,6 +239,7 @@
 | [0101-symmetric-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -261,6 +264,7 @@
 | [0101-symmetric-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
@@ -286,4 +290,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0509-fibonacci-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
