@@ -62,6 +62,7 @@
 | [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1518-water-bottles](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1518-water-bottles) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -318,4 +319,8 @@
 | [0450-delete-node-in-a-bst](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
