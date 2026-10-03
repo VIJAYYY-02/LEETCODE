@@ -112,6 +112,7 @@
 | [0013-roman-to-integer](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0125-valid-palindrome) |
@@ -227,12 +228,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0096-unique-binary-search-trees](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -323,4 +326,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
