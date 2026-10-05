@@ -119,6 +119,7 @@
 | [0067-add-binary](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0242-valid-anagram) |
+| [0856-score-of-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0856-score-of-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -241,6 +242,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0856-score-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |
