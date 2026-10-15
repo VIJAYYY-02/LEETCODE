@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1122-relative-sort-array) |
