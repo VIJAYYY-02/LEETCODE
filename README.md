@@ -38,6 +38,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -394,4 +395,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
