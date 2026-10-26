@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1122-relative-sort-array) |
@@ -198,6 +199,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
@@ -271,6 +273,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
