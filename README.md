@@ -272,6 +272,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0856-score-of-parentheses) |
@@ -402,4 +403,12 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3903-smallest-stable-index-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
