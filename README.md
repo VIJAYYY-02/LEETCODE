@@ -82,6 +82,7 @@
 | [0836-rectangle-overlap](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1518-water-bottles](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1518-water-bottles) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
