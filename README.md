@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -61,6 +62,7 @@
 | [0242-valid-anagram](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1122-relative-sort-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -104,6 +106,7 @@
 | [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -115,6 +118,7 @@
 | [0242-valid-anagram](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -134,6 +138,7 @@
 | [0069-sqrtx](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
