@@ -39,6 +39,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -170,6 +171,7 @@
 | [0856-score-of-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
