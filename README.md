@@ -42,6 +42,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -139,6 +140,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3731-find-missing-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -152,6 +154,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -201,6 +204,7 @@
 | ------- |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -274,6 +278,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
