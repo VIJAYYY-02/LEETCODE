@@ -101,6 +101,7 @@
 | [1518-water-bottles](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1518-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
