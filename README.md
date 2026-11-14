@@ -48,6 +48,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -263,6 +264,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -449,6 +451,7 @@
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3903-smallest-stable-index-i) |
 ## Design
 |  |
