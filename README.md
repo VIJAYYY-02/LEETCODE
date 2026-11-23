@@ -45,6 +45,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -168,6 +169,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1122-relative-sort-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
