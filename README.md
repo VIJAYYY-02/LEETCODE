@@ -218,6 +218,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [0678-valid-parenthesis-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
+| [1382-balance-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
@@ -359,6 +361,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -373,6 +376,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0501-find-mode-in-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -394,6 +398,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -430,6 +435,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
