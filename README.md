@@ -95,6 +95,7 @@
 | [0069-sqrtx](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0367-valid-perfect-square) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -482,4 +484,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
