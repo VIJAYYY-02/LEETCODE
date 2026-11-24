@@ -96,6 +96,7 @@
 | [0096-unique-binary-search-trees](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0367-valid-perfect-square) |
