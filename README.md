@@ -101,6 +101,7 @@
 | [0263-ugly-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -424,6 +425,7 @@
 | [0050-powx-n](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
