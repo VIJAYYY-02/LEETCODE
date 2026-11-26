@@ -108,6 +108,7 @@
 | [0441-arranging-coins](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0507-perfect-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0836-rectangle-overlap) |
