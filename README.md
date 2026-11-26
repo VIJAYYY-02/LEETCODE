@@ -104,6 +104,7 @@
 | [0326-power-of-three](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0509-fibonacci-number) |
@@ -193,6 +194,7 @@
 | [0242-valid-anagram](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0389-find-the-difference](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
