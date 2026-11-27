@@ -32,6 +32,7 @@
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
@@ -153,6 +154,7 @@
 | [0414-third-maximum-number](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
@@ -252,6 +254,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/1122-relative-sort-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -310,6 +313,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/VIJAY-0780/https-github.com-VIJAY-0780-LEETCODE/tree/master/0976-largest-perimeter-triangle) |
